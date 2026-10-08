@@ -1,0 +1,6 @@
+{
+  "name": "Doblix Scanner",
+  "description": "A high-fidelity academic network scanner and SQL querying dashboard designed for isolated lab environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
